@@ -1,2 +1,3 @@
 # demon
-this is a my first git demo repo
+this is a my first git demo repository
+Author- rohit prajapat
